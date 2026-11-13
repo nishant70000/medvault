@@ -337,7 +337,6 @@ The project can be deployed using:
 
 ---
 
-
 ## ⭐ Contributing
 
 Contributions are welcome!
